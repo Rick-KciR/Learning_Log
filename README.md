@@ -1,8 +1,8 @@
 # Learning_Log
 
-Reposótório de prática de programação backend com Pyhton
+Repositório para prática de programação backend com Pyhton.
 
-Aplicação web para registar assuntos e criar entradas sobre cada assunto, similar a um diário.
+Aplicação web para registrar assuntos e criar entradas sobre cada assunto, similar a um diário.
 
 # Tecnologia
   Python
