@@ -1,5 +1,5 @@
 # Learning_Log
-##Em desenvolvimento
+Em desenvolvimento*
 
 Repositório para prática de programação backend com Pyhton.
 
